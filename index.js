@@ -110,7 +110,6 @@ module.exports = {
     'no-var': 'error',
     'object-shorthand': 'error',
     'prefer-arrow-callback': 'error',
-    'prefer-const': 'error',
     'prefer-spread': 'error',
     'prefer-template': 'error',
     'template-curly-spacing': 'error',
